@@ -1,0 +1,110 @@
+country,lifeexpf,lifeexpm,region,birth_rt,death_rt
+Afghanistan,44,45,Pacific/Asia,53,22
+Argentina,75,68,Latn America,20,9
+Armenia,75,68,Middle East,23,6
+Australia,80,74,OECD,15,8
+Austria,79,73,OECD,12,11
+Azerbaijan,75,67,Middle East,23,7
+Bahrain,74,71,Middle East,29,4
+Bangladesh,53,53,Pacific/Asia,35,11
+Barbados,78,73,Latn America,16,8.4
+Belarus,76,66,East Europe,13,11
+Belgium,79,73,OECD,12,11
+Bolivia,64,59,Latn America,34,9
+Bosnia,78,72,East Europe,14,6.39
+Botswana,66,60,Africa,32,8
+Brazil,67,57,Latn America,21,9
+Bulgaria,75,69,East Europe,13,12
+Burkina Faso,50,47,Africa,47,18
+Burundi,50,46,Africa,44,21
+Cambodia,52,50,Pacific/Asia,45,16
+Cameroon,58,55,Africa,41,12
+Canada,81,74,OECD,14,8
+Cent. Afri.R,44,41,Africa,44,21
+Chile,78,71,Latn America,23,6
+China,69,67,Pacific/Asia,21,7
+Colombia,75,69,Latn America,24,6
+Costa Rica,79,76,Latn America,26,4
+Croatia,77,70,East Europe,11,11
+Cuba,78,74,Latn America,17,7
+Czech Rep.,77,69,East Europe,13,11.1
+Denmark,79,73,OECD,12,12
+Domincan R.,70,66,Latn America,25,6
+Ecuador,73,67,Latn America,26,6
+Egypt,63,60,Middle East,29,9
+El Salvador,69,64,Latn America,33,7
+Estonia,76,67,East Europe,14,12
+Ethiopia,54,51,Africa,45,14
+Finland,80,72,OECD,13,10
+France,82,74,OECD,13,9.3
+Gabon,58,52,Africa,28,14
+Gambia,52,48,Africa,46,16
+Georgia,76,69,East Europe,16,9
+Germany,79,73,OECD,11,11
+Greece,80,75,OECD,10,10
+Guatemala,67,62,Latn America,35,8
+Haiti,47,43,Latn America,40,19
+Honduras,70,65,Latn America,35,6
+Hong Kong,80,75,Pacific/Asia,13,6
+Hungary,76,67,East Europe,12,13
+Iceland,81,76,OECD,16,7
+India,59,58,Pacific/Asia,29,10
+Indonesia,65,61,Pacific/Asia,24,9
+Iran,67,65,Middle East,42,8
+Iraq,68,65,Middle East,44,7
+Ireland,78,73,OECD,14,9
+Israel,80,76,Middle East,21,7
+Italy,81,74,OECD,11,10
+Japan,82,76,Pacific/Asia,11,7
+Jordan,74,70,Middle East,39,5
+Kenya,55,51,Africa,42,11
+Kuwait,78,73,Middle East,28,2
+Latvia,75,64,East Europe,14,12
+Lebanon,71,67,Middle East,27,7
+Liberia,57,54,Africa,43,12
+Libya,65,62,Middle East,45,8
+Lithuania,77,68,East Europe,15,10
+Malaysia,72,66,Pacific/Asia,29,5
+Mexico,77,69,Latn America,28,5
+Morocco,70,66,Africa,29,6
+N. Korea,73,67,Pacific/Asia,24,5.5
+Netherlands,81,75,OECD,13,9
+New Zealand,80,73,OECD,16,8
+Nicaragua,67,61,Latn America,35,7
+Nigeria,57,54,Africa,44,12
+Norway,81,74,OECD,13,10
+Oman,70,66,Middle East,40,5
+Pakistan,58,57,Pacific/Asia,42,10
+Panama,78,71,Latn America,25,5
+Paraguay,75,72,Latn America,33,4.5
+Peru,67,63,Latn America,26,7
+Philippines,68,63,Pacific/Asia,27,7
+Poland,77,69,East Europe,14,10
+Portugal,78,71,OECD,12,10
+Romania,75,69,East Europe,14,10
+Russia,74,64,East Europe,13,11
+Rwanda,46,43,Africa,49,21
+S. Korea,74,68,Pacific/Asia,16,6
+Saudi Arabia,70,66,Middle East,38,6
+Senegal,58,55,Africa,43,12
+Singapore,79,73,Pacific/Asia,16,6
+Somalia,55,54,Africa,46,13
+South Africa,68,62,Africa,34,8
+Spain,81,74,OECD,11,9
+Sweden,81,75,OECD,14,11
+Switzerland,82,75,OECD,12,9
+Syria,68,65,Middle East,44,6
+Taiwan,78,72,Pacific/Asia,15.6,7
+Tanzania,45,41,Africa,46,19
+Thailand,72,65,Pacific/Asia,19,6
+Turkey,73,69,Middle East,26,6
+U.Arab Em.,74,70,Middle East,28,3
+UK,80,74,OECD,13,11
+USA,79,73,OECD,15,9
+Uganda,43,41,Africa,49,24
+Ukraine,75,65,East Europe,12,13
+Uruguay,77,71,Latn America,17,10
+Uzbekistan,72,65,Middle East,30,7
+Venezuela,76,70,Latn America,26,5
+Vietnam,68,63,Pacific/Asia,27,8
+Zambia,45,44,Africa,46,18
